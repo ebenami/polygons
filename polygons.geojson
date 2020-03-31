@@ -66,12 +66,29 @@
       "properties": { 
         "continent": "Europe",
         "country": "Spain", 
-        "city": "BArcelona",
+        "city": "Barcelona",
         "ISO": "ES BCN"
       }, 
       "geometry": { 
         "type":"Polygon",
         "coordinates": [[[2.23597,41.41639],[2.18662,41.46074],[2.04777,41.4011],[2.14658,41.29043],[2.23597,41.41639]]]
+      }
+    },
+    {
+      "id": "NewYorkCity",
+      "type": "Feature", 
+      "properties": { 
+        "continent": "NorthAmerica",
+        "country": "UnitedStated", 
+        "city": "NewYorkCity",
+        "ISO": "US NYC"
+      }, 
+      "type":"Feature",
+      "properties": {  
+      },
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates":  [[[-73.91726,40.92097],[-73.75534,40.87952],[-73.69904,40.56702],[-74.28176,40.48677],[-74.21289,40.64361],[-73.91726,40.92097]]]
       }
     }
   ]
