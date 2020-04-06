@@ -83,43 +83,20 @@
         "city": "NewYorkCity",
         "ISO": "US NYC"
       }, 
-      "type":"Feature",
-      "properties": {  
-      },
       "geometry": {
         "type": "Polygon", 
         "coordinates":  [[[-73.91726,40.92097],[-73.75534,40.87952],[-73.69904,40.56702],[-74.28176,40.48677],[-74.21289,40.64361],[-73.91726,40.92097]]]
       }
     },
     {
-      "id": "Ido1",
+      "id": "Bern",
       "type": "Feature", 
       "properties": { 
-        "continent": "NorthAmerica",
-        "country": "UnitedStated", 
-        "city": "NewYorkCity",
-        "ISO": "US NYC"
+        "continent": "Europe",
+        "country": "Switzerland", 
+        "city": "Bern",
+        "ISO": "CH  BRN"
       }, 
-      "type":"Feature",
-      "properties": {  
-      },
-      "geometry": {
-        "type": "Polygon", 
-        "coordinates":  [[[7.3828125, 47.04018214480666], [7.3828125, 46.800059446787316], [7.734375, 46.800059446787316], [7.734375, 47.04018214480666], [7.3828125, 47.04018214480666]]]
-      }
-    },
-    {
-      "id": "Ido2",
-      "type": "Feature", 
-      "properties": { 
-        "continent": "NorthAmerica",
-        "country": "UnitedStated", 
-        "city": "NewYorkCity",
-        "ISO": "US NYC"
-      }, 
-      "type":"Feature",
-      "properties": {  
-      },
       "geometry": {
         "type": "Polygon", 
         "coordinates":  [[[7.03125, 47.04018214480666], [7.03125, 46.800059446787316], [7.3828125, 46.800059446787316], [7.3828125, 47.04018214480666], [7.03125, 47.04018214480666]]]
