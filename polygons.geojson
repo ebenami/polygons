@@ -79,7 +79,7 @@
       "type": "Feature", 
       "properties": { 
         "continent": "NorthAmerica",
-        "country": "UnitedStated", 
+        "country": "UnitedStates", 
         "city": "NewYorkCity",
         "ISO": "US NYC"
       }, 
@@ -100,6 +100,20 @@
       "geometry": {
         "type": "Polygon",
         "coordinates": [ [ [7.03125, 47.04018214480666], [7.03125, 46.800059446787316], [7.734375, 46.800059446787316], [7.734375, 47.04018214480666], [7.03125, 47.04018214480666] ] ]
+      }
+    },
+    {
+      "id": "LosAngelesStreet",
+      "type": "Feature", 
+      "properties": { 
+        "continent": "NorthAmerica",
+        "country": "UnitedStates", 
+        "city": "Los Angeles",
+        "ISO": "US LAX"
+      }, 
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [ [ [-118.30078125, 34.089061315849946], [-118.30078125, 34.016241889667015], [-118.212890625, 34.016241889667015], [-118.212890625, 34.089061315849946], [-118.30078125, 34.089061315849946] ] ] 
       }
     },
     {
