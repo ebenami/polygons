@@ -153,7 +153,7 @@
         "country": "Italy", 
         "city": "Rome",
         "ISO": "IT ROM",
-        "quadkey": 1202322211
+        "quadkey": "1202322211"
       }, 
       "geometry": {
         "type": "Polygon",
@@ -168,7 +168,7 @@
         "country": "UnitedStates", 
         "city": "Los Angeles",
         "ISO": "US LAX",
-        "quadkey": 02301231101
+        "quadkey": "02301231101"
       }, 
       "geometry": {
         "type": "Polygon",
