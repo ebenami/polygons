@@ -4,7 +4,7 @@ const path = require('path');
 function parseGeojson(fn){
    let info = path.parse(fn);
    if(info.ext !== '.geojson'){
-      console.log(`${fn} not a geojson. skipping.`);
+      // console.log(`${fn} not a geojson. skipping.`);
       return;
    }
    let data = fs.readFileSync(fn);
